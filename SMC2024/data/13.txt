@@ -1,0 +1,74 @@
+Experiments
+1 a
+2 h
+3 a  (7 file name)
+
+3 h
+4 a
+
+5 a
+6 h
+
+
+Opinion
+1 a
+2 a
+2' h
+E a h a
+N A h a
+
+
+3 h
+4 a
+E a h
+N A a 
+
+5  h
+6 a
+EHh
+
+
+Average confidence: 
+1&2 30 30 30// 80 60 70// 70 60 
+3&4   20 20 //  65 65 80 50
+5&6 10 10 // 70 /80
+
+Reasoning and comments:
+1&2  # 速度變化怪怪的
+     # 分不出來 也埋像電腦
+2' 人 快慢反應項
+
+E 1 2'a little weird , sound really odd , time delay
+    2 very well 
+Na 2 more smooth 
+1 2' gap
+
+3&4  # 反應速度不一樣 第二此有暴衝的感覺
+第一次飽受的加速緩衝
+       E 3 following  slow catch some time
+4 two human trying not feeling following a little bit rush 
+     # 
+N 有重音 
+5&6  
+     #5 感覺比較像人 沒注意聽 專心彈琴
+
+     #6 第二個相ＡＩ 因為彈得特別大聲
+E 第一次也有等
+等了一小截 第二次像人
+
+5 
+6 
+
+//
+如何得知實驗資訊：
+
+
+我們的實驗可以改進的地方：
+
+
+是否願意參與下次實驗：
+可以
+ 
+
+
+

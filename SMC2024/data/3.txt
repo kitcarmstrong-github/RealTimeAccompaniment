@@ -1,0 +1,38 @@
+Experiments
+1h 1/4
+2a 1/4
+3a 1/16
+4h 1/16
+5a Gounod
+6h Gounod (Filewriting FAIL)
+7a Gounod
+
+Opinions
+1a
+2h
+
+Confidence 70%
+
+3h
+4h
+
+Confidence 80%
+
+5a
+6h
+
+7a
+Confidence 70%
+
+8h
+
+
+Reasoning:
+5 computer because of errors and not together.
+6 expression was better. 5 was a bit stiff, even before it lost alignment. 6 felt like more interaction. It was more interesting.
+
+7 more primitive dynamics. Like MIDI with constant velocity. I think person will make more changes. But it could be a human because I thought I heard it play a wrong note.
+
+7 (Yi-Wen) human, because no failures noticed. 
+
+8 human because of large dynamics changes.

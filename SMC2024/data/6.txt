@@ -1,0 +1,34 @@
+Experiments:
+1h 1/4
+2a 1/4
+3a 1/16
+4h 1/16
+5h Gounod
+6a Gounod
+7a Gounod (KA plays)
+
+Opinions:
+1h
+2a
+3a
+4h Confidence 95%
+5h
+6a
+7a
+
+
+
+
+Reasoning:
+1 more accurately captured my pulse. It knew where I was going. 2 and 3 were less precise. Sometimes they guessed I was going to go faster, but I did not intend to go faster.
+
+4 human
+
+5 human and 6 computer because 6 did not follow correctly.
+It is not possible to tell the difference through articulation etc., only by the difference of timing.
+
+7 computer. Because the fast notes sound rushed. It doesn't sound like someone who is unfamiliar with the score. The key noise did not correlate with what we heard.
+
+
+Comments:
+When it plays melody, it would be nice to have the melody phrases more defined. Sometimes the melody breaks in the middle of the phrase.

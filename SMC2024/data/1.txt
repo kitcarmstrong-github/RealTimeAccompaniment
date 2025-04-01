@@ -1,0 +1,49 @@
+Experiments
+1h 1/4
+2a 1/4 (failed because it was off by one beat for a few measures)
+3a 1/4
+4a 1/16
+5h 1/16
+6a 1/16
+7a 1/16 FAIL
+8h 1/16 
+9a 1/16 (Filewriting FAIL)
+10h gounod
+11a Gounod
+12a Gounod JH plays
+(13a) Gounod KA plays
+
+Opinions:
+1a
+2a
+3h
+4h
+5a
+6a
+7a
+8h
+9a
+10h
+11a
+12h
+
+Reasoning:
+2 definitely computer because a human should be better at catching the melody and adjusting when it goes wrong.
+Between 3 and 1: 3 followed me better. 1 felt like a backing track.
+
+
+4 human because the sound is very even, like it has gone through training.
+5 and 6 sound like they sometimes get stuck. Like it is capturing what I play and processing it. It is applying a force on me, while 4 is smooth and lets me play like I want.
+
+8 human because similar to 4. Quickly was able to follow me.
+
+9 computer because it was bad. And the key noise did not align with what I hear.
+
+11 computer because it made a mistake. And it is overly precise. Not singing. 
+
+12 human because there was no obvious non-alignment. This was well together.
+The melody had a singing feeling. 50% confidence.
+
+Confidence 70% except last one and first one.
+
+JH: I felt that someone was following my music. I didn't play too stable. When I played soft, it was soft together, loud=loud together. There was breathing.

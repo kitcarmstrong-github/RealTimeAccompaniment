@@ -1,0 +1,66 @@
+Experiments
+1 a
+2 h
+
+3 h
+4 a
+
+5 a
+6 h
+
+
+Opinion
+1 a
+2h
+Lu Ah
+Ah
+
+
+3 h
+4 h
+Lu a h
+
+
+5 h
+6 a
+
+Lu h a
+
+Average confidence: 
+1&2 %80 80 //100 100 
+3&4 70 70 %. 70 90 
+5&6 80 70% 70 70 
+
+Reasoning and comments:
+1&2  # 第一次進來有延遲
+     # 蠻規律的
+
+3&4  # 都跟得不錯
+       16速度變化較準
+     # 
+     3 比較少錯
+Lu 4速度轉的時候怪
+5&6  
+     #5 follow我的tempo
+     #6 逼這我follow tempo 有時候會等 有因沒談讓我又感覺像人
+
+Lu 因料都改變 難猜
+5 有沒按到因
+6 有等 可能鋼琴沒按沒接收sig  但又有可能是人
+
+//
+如何得知實驗資訊：
+
+
+我們的實驗可以改進的地方：
+普 exact  finger suggestion
+Drink flVR
+兩個都會談琴鍵
+因高調整
+
+是否願意參與下次實驗：
+可以
+ Both
+
+
+
