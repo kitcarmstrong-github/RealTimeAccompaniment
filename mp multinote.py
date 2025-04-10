@@ -19,10 +19,10 @@ if __name__=='__main__':
 
 
     #import scores
-    with open('logs/debussy3_1/outputscore.txt') as f:
+    with open('logs/chopin_25_6_top/outputscore.txt') as f:
         inputscore=eval(f.read())
 
-    with open('logs/debussy3_2/outputscore.txt') as f:
+    with open('logs/chopin_25_6_2nd/outputscore.txt') as f:
         outputscore=eval(f.read())
 
     metadata={'tempo':100,'output gain':1,'time reactivity':1,'vel reactivity':0.5}
